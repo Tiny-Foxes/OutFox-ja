@@ -1,5 +1,5 @@
 # OutFox-ja
-Japanese (ja) Translation for StepMania 5.3 "Outfox"
+Japanese (ja) Translation for Project OutFox
 
 ## Rules
 ### ja
